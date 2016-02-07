@@ -3,7 +3,7 @@
   <groupId>com.github.olivergondza</groupId>
   <artifactId>maven-jdk-tools-wrapper</artifactId>
   <version>0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
   <name>jdk.tools wrapper</name>
   <description>Universal dependency to build against jdk.tools (AKA tools.jar) in a portable way</description>
 
