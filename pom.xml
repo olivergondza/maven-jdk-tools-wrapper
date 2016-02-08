@@ -8,9 +8,9 @@
   <description>Universal dependency to build against jdk.tools (AKA tools.jar) in a portable way</description>
 
   <scm>
-    <connection>scm:git:git://github.com/olivergondza/dumpling.git</connection>
-    <developerConnection>scm:git:git@github.com:olivergondza/dumpling.git</developerConnection>
-    <url>https://github.com/olivergondza/dumpling</url>
+    <connection>scm:git:git://github.com/olivergondza/maven-jdk-tools-wrapper.git</connection>
+    <developerConnection>scm:git:git@github.com:olivergondza/maven-jdk-tools-wrapper.git</developerConnection>
+    <url>https://github.com/olivergondza/maven-jdk-tools-wrapper</url>
     <tag>HEAD</tag>
   </scm>
 
