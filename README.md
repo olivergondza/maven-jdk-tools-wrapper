@@ -30,7 +30,7 @@ to keep in mind:
 ## Solution
 
 There are tricks to get this working across Java versions and systems. Maven profiles
-can distinguish those situations and [declare particular dependency](./blob/master/pom.xml) if needed.
+can distinguish those situations and [declare particular dependency](/olivergondza/maven-jdk-tools-wrapper/blob/master/pom.xml) if needed.
 
 Maintaining such a beast in `pom.xml` is what we all try to stay away from. Hence
 this module exists so you do not have to know or care.
