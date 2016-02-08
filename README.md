@@ -24,8 +24,8 @@ is distributed together with JDK, maven needs to be instructed to use it explici
 `system` dependency scope is here to do just that but there are still some caveats
 to keep in mind:
 
-- The path to the jar is different on OS X variant of sun/oracle JDKs ([JDK tools.jar as maven dependency](http://stackoverflow.com/questions/3080437/jdk-tools-jar-as-maven-dependency/29585979#29585979).
-- The file was removed in Java 9 and the dependency should not be declared ([Declare maven dependency on tools.jar to work on JDK 9](http://stackoverflow.com/a/35244168/2091470)).
+- The path to the jar is different on OS X variant of sun/oracle JDKs ([JDK tools.jar as maven dependency](http://stackoverflow.com/questions/3080437/jdk-tools-jar-as-maven-dependency/29585979#29585979))
+- The file was removed in Java 9 and the dependency should not be declared ([Declare maven dependency on tools.jar to work on JDK 9](http://stackoverflow.com/a/35244168/2091470))
 
 ## Solution
 
