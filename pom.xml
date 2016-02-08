@@ -5,6 +5,7 @@
   <version>0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>jdk.tools wrapper</name>
+  <url>https://github.com/olivergondza/maven-jdk-tools-wrapper</url>
   <description>Universal dependency to build against jdk.tools (AKA tools.jar) in a portable way</description>
 
   <scm>
