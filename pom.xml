@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.olivergondza</groupId>
   <artifactId>maven-jdk-tools-wrapper</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <packaging>jar</packaging>
   <name>jdk.tools wrapper</name>
   <url>https://github.com/olivergondza/maven-jdk-tools-wrapper</url>
@@ -12,7 +12,7 @@
     <connection>scm:git:git://github.com/olivergondza/maven-jdk-tools-wrapper.git</connection>
     <developerConnection>scm:git:git@github.com:olivergondza/maven-jdk-tools-wrapper.git</developerConnection>
     <url>https://github.com/olivergondza/maven-jdk-tools-wrapper</url>
-    <tag>HEAD</tag>
+    <tag>maven-jdk-tools-wrapper-0.1</tag>
   </scm>
 
   <licenses>
@@ -48,7 +48,7 @@
         <jdk>[1.9,)</jdk>
       </activation>
       <!-- No dependencies needed by Jigsaw -->
-      <dependencies/>
+      <dependencies />
     </profile>
     <profile>
       <id>default-jdk</id>
