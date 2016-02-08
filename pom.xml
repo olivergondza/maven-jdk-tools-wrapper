@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.olivergondza</groupId>
   <artifactId>maven-jdk-tools-wrapper</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>jdk.tools wrapper</name>
   <url>https://github.com/olivergondza/maven-jdk-tools-wrapper</url>
@@ -12,7 +12,7 @@
     <connection>scm:git:git://github.com/olivergondza/maven-jdk-tools-wrapper.git</connection>
     <developerConnection>scm:git:git@github.com:olivergondza/maven-jdk-tools-wrapper.git</developerConnection>
     <url>https://github.com/olivergondza/maven-jdk-tools-wrapper</url>
-    <tag>maven-jdk-tools-wrapper-0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <licenses>
